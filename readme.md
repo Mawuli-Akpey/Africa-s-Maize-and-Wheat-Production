@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# Maize and Wheat Production in Africa
 
 ## Dataset
 This dataset  consists of information on the Gross Production Index of different
